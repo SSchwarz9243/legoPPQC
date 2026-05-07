@@ -1,0 +1,9 @@
+.lego
+.gitcookies
+.idea
+.vscode/
+dist/
+builds/
+lego.exe
+*.tar.gz
+*.zip
